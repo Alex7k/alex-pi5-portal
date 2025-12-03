@@ -1,0 +1,7 @@
+services:
+  portal:
+    build: .
+    container_name: alex-pi5-portal
+    ports:
+      - "80:80"
+    restart: unless-stopped
