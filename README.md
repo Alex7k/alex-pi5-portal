@@ -1,6 +1,8 @@
-# alex-pi5 web-portal
+# minimal web-portal
 
-Simple dockerized web portal for my raspberry pi 5.
+Simple dynamically built dockerized web portal.
+
+I made this for my raspberry pi 5.
 
 ![Screenshot of the web portal](img/screenshot.png)
 
